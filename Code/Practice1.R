@@ -7,3 +7,6 @@ user2 <- "Trevor"
 x <- 5
 y <- 5.4
 z <- x + y
+ 
+#Oops! I wanted to set z to x-y.
+z <- x - y
